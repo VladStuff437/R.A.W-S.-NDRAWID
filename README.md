@@ -1,2 +1,2 @@
-# R.A.W-S.-NDRAWID
+# R.A.W-S.-ÆNDRAWID
 Cosmic quest-craft rpg game.
